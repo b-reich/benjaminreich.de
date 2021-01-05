@@ -1,0 +1,34 @@
+baseURL = "https://benjaminreich.de/"
+# include content marked as draft
+buildDrafts = false
+# include content with publishdate in the future
+buildFuture = false
+# include content already expired
+buildExpired = false
+# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+relativeURLs = true
+disableRSS = true
+enableRobotsTXT = true
+editor = "nano"
+languageCode = "en"
+language = "en"
+theme = "vncnt-hugo"
+title = "Benjamin Reich"
+
+[permalinks]
+  fixed = ":title/"
+  posts = "posts/:slug/"
+
+[params]
+  author = "Benjamin Reich"
+  email = "contact@benjaminreich.de"
+  description = "My Homepage"
+  bio = "I'm a 24 year old computer scientist student.\n My focus is programming for embedded system.\n As an IT-Admin I also get in touch with networks and highly avaible services."
+  avatar = "img/avatar.jpg"
+  favicon = "img/favicon.ico"
+  error404 = "There is no such page."
+
+  [params.contact]
+    github = "https://github.com/b-reich"
+    gitlab = "https://gitlab.com/b-reich"
+    twitter = "https://twitter.com/chillfre4k"
