@@ -1,9 +1,13 @@
 ---
-title: "About"
+title: "About me"
 date: 2021-01-09T23:07:58+01:00
 draft: false
 ---
 
-I’m a 24 year old computer scientist student. My focus is programming for embedded system. As an IT-Admin I also get in touch with networks and highly avaible services.
 
-Ceck out my Github/Gitlab!
+### I'm a Student, Developer, IT-Admin!
+I'm a 24 year old computer scientist student. My focus is programming for embedded system.
+As an IT-Admin I also get in touch with networks and highly avaible services
+
+### 🗺️ Location
+I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just south of **Hamburg, Germany**.
