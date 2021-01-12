@@ -86,10 +86,10 @@ paginate = 20
 #    serverURL = "analytics.example.com"
 
 # If you want to use plausible(https://plausible.io) for analytics, add this section
-#[params.plausibleAnalytics]
-#    domain = "example.com"
-#    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
-#    serverURL = "analytics.example.com"
+[params.plausibleAnalytics]
+    domain = "benjaminreich.de"
+    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+    serverURL = "analytics.benjaminreich.de"
 
 # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
 [params.goatCounter]
