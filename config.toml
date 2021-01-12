@@ -144,7 +144,7 @@ paginate = 20
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "About me"
             weight = 1
             url = "about/"
 
