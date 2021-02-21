@@ -44,6 +44,8 @@ paginate = 20
     hideCopyright = false
     since = 2020
 
+    enableTwemoji = true
+
     # Git Commit in Footer, uncomment the line below to enable it.
     # commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
