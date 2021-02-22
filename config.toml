@@ -98,8 +98,8 @@ paginate = 20
     code = "benjaminreich"
 
 # If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
-#[params.cloudflare]
-#    token = "token"
+[params.cloudflare]
+    token = "fb4d7e308c884c41b9fc8d7eac0ffbc2"
 
 [taxonomies]
   category = "categories"
