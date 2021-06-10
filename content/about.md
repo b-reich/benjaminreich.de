@@ -7,7 +7,7 @@ draft: false
 
 ### I'm a Student, Developer, IT-Admin!
 I'm a 24 year old computer scientist student. My focus is programming for embedded systems.
-As an IT-Admin I also get in touch with networks and highly avaible services
+As an IT-Admin I also get in touch with networks and highly avaible services.
 
 ### 🗺️ Location
 I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just south of **Hamburg, Germany**.
