@@ -22,3 +22,5 @@ commit; save; exit
 sudo service dnsmasq restart
 ```
 *Note: Maybe you have to change the interface behind constructor.*
+
+For more information check out the man page from [Dnsmasq](https://thekelleys.org.uk/dnsmasq/docs/dnsmasq-man.html).
