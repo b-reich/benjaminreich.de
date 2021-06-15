@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2021-06-12T11:14:59+02:00
 title = "EdgeRouter resolving local IPv6 addresses"
 slug = "EdgeRouter resolving local IPv6 addresses"
