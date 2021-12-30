@@ -74,7 +74,10 @@ paginate = 20
     customSCSS = []
 
     # Custom JS
-    customJS = []
+    customJS = [
+        "https://unpkg.com/magic-snowflakes/dist/snowflakes.min.js",
+        "js/snowflakes.js"
+    ]
 
     favicon_16 = "/images/favicon/favicon-16x16.png"
     favicon_32 = "/images/favicon/favicon-32x32.png"
