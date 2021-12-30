@@ -101,6 +101,15 @@ paginate = 20
 [params.cloudflare]
     token = "fb4d7e308c884c41b9fc8d7eac0ffbc2"
 
+
+[params.csp]
+  scriptsrc = [
+    "'self'",
+    "'unsafe-inline'",
+    "https://www.google-analytics.com",
+    "https://unpkg.com"
+  ]
+
 [taxonomies]
   category = "categories"
   series = "series"
