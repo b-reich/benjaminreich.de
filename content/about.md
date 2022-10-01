@@ -6,15 +6,15 @@ draft: false
 
 
 ### I'm a DevOps Engineer
-I'm a started as a Sys-Admin. Maintaining Client-Nodes, Servers (Windows and Linux) and managing network infrastructure was just the beginning.
+I'm started as a Sys-Admin. Maintaining Client-Nodes, Servers (Windows and Linux) and managing network infrastructure was just the beginning.
 Nowerdays my focus is more in configuration and infrastructure as code. My heart belongs to pipelines.
 
 
-Tools: Ansible, Terraform
-Programming Languages: 🐍Python, Java
-Learning: Golang, 🦀Rust, K8s
-🐧Linux
-Azure, AWS, HetznerCloud and GPC
+Tools: Ansible, Terraform \
+Programming Languages: 🐍Python, Java \
+Learning: Golang, 🦀Rust, K8s \
+🐧Linux \
+Azure, AWS, HetznerCloud and GPC \
 CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 
