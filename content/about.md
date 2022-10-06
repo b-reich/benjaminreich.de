@@ -20,3 +20,5 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### 🗺️ Location
 I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just south of **Hamburg, Germany**.
+
+[![@chillfre4k's Holopin board](https://holopin.io/api/user/board?user=chillfre4k)](https://holopin.io/@chillfre4k)
