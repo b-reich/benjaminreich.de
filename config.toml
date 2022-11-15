@@ -115,29 +115,34 @@ paginate = 20
     icon = "fa fa-github fa-2x"
     weight = 1
     url = "https://github.com/b-reich/"
+    rel = "me"
     target = "_blank"
 [[params.social]]
     name = "Gitlab"
     icon = "fa fa-gitlab fa-2x"
     weight = 2
     url = "https://gitlab.com/b-reich/"
+    rel = "me"
     target = "_blank"
 [[params.social]]
     name = "mastodon"
     icon = "fa fa-mastodon fa-2x"
     weight = 3
     url = "https://norden.social/@breich"
+    rel = "me"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter fa-2x"
     weight = 4
     url = "https://twitter.com/chillfre4k/"
+    rel = "me"
     target = "_blank"
 [[params.social]]
     name = "linkedin"
     icon = "fa fa-linkedin fa-2x"
     weight = 5
     url = "https://www.linkedin.com/in/benjamin-reich-5ba667214/"
+    rel = "me"
     target = "_blank"
 [[params.social]]
     name = "e-mail"
