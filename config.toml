@@ -126,7 +126,7 @@ paginate = 20
     target = "_blank"
 [[params.social]]
     name = "mastodon"
-    icon = "fa fa-mastodon fa-2x"
+    icon = "fa-brands fa-mastodon fa-2x"
     weight = 3
     url = "https://norden.social/@breich"
     rel = "me"
@@ -138,21 +138,28 @@ paginate = 20
     rel = "me"
     target = "_blank"
 [[params.social]]
+    name = "Threads"
+    icon = "fa-brands fa-threads fa-2x"
+    weight = 5
+    url = "https://www.threads.net/@chillfre4k"
+    rel = "me"
+    target = "_blank"
+[[params.social]]
     name = "linkedin"
     icon = "fa fa-linkedin fa-2x"
-    weight = 5
+    weight = 6
     url = "https://www.linkedin.com/in/benjamin-reich-5ba667214/"
     rel = "me"
     target = "_blank"
 [[params.social]]
     name = "e-mail"
     icon = "fa fa-envelope fa-2x"
-    weight = 6
+    weight = 7
     url = "mailto:contact@benjaminreich.de"
 [[params.social]]
     name = "RSS"
     icon = "fa fa-rss fa-2x"
-    weight = 7
+    weight = 8
     url = "https://benjaminreich.de/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
