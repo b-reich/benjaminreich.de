@@ -5,8 +5,10 @@ theme = "hugo-coder"
 
 languageCode = "en"
 defaultContentLanguage = "en"
+enableEmoji = true
 
-paginate = 20
+[pagination]
+pagerSize = 20
 
 #pygmentsStyle = "vim"
 #pygmentsCodeFences = true
@@ -63,9 +65,6 @@ paginate = 20
 
     # Series see also post count
     maxSeeAlsoItems = 5
-
-    # Enable Twemoji
-    enableTwemoji = true
 
     # Custom CSS
     customCSS = []
